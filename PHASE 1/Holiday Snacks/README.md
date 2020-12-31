@@ -1,4 +1,4 @@
-![challenge](/img/Capture.PNG)
+![challenge](./img/Capture.PNG)
 
 #### CHALLENGE INFORMATION
 
@@ -24,7 +24,7 @@ Looks like ASCII codes.
 
 Use any online ASCII-to-text converter such as https://www.duplichecker.com/ascii-to-text.php :
 
-![Flag](/img/Flag.PNG)
+![Flag](./img/Flag.PNG)
 
 #### (Flag) Snack 2
 
