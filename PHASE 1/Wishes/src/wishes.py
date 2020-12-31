@@ -1,0 +1,1 @@
+print('A'*50 + 'admin')
