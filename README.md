@@ -1,4 +1,4 @@
-<a href="https://www2.deloitte.com/nl/nl/events/risk-events/2020/hacky-holidays.html">
+<a href="https://www2.deloitte.com/nl/nl/events/risk-events/2020/hacky-holidays.html" target="_blank">
 <img alt="bg" src="/img/bg.png">
 </a>
 
