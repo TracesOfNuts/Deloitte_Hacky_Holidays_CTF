@@ -1,0 +1,24 @@
+#################################################
+# Using GDB, follow the commands below to reach #
+# the function where the flag is in             #
+#################################################
+
+info file
+break *0x400890
+run
+x/15i $rip
+break *0x400d98
+c
+x/50i $rip
+break *0x400dbe
+break *0x400de9
+c
+set $eax=0
+c
+enter_key_here
+si
+x/170i $rip
+
+#################################################
+# You have arrived at the disassembled function #
+#################################################
