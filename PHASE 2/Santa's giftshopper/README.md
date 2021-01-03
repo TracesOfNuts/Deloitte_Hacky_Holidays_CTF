@@ -160,11 +160,11 @@ Let's select all and copy paste the output to a text file: [output.txt](./src/ou
 
 ![count](./img/count.PNG)
 
-For the first question, we need minus 1 instance from the count result itself to get 113 guitars.
+Take note of the following:
 
-Subsequent, questions, we can read it off directly
-
-Also, if the question ask for "book", we need to minus an additional 1 because of the word "notebook".
+- For the first question, we need minus 1 instance from the count result itself to get 103 binoculars (your question might be different here.
+- Subsequent, questions, we can read it off directly
+- Also, if the question ask for "book", we need to minus an additional 1 because of the word "notebook".
 
 Enter the values as requested to get the flag:
 
