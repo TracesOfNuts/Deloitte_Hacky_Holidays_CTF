@@ -1,0 +1,2007 @@
+tracesofnuts@PC-may-contain-traces-of-nuts:/mnt/d/Deloitte_Hacky_Holidays_CTF/PHASE 2/Santa's giftshopper/src$ python3 flag.py
+[+] Opening connection to portal.hackazon.org on port 17005: Done
+b'\n                 ___\n         /`   `\'.\n        /   _..---;\n        |  /__..._/  .--.-.\n        |.\'  e e | ___\\_|/____\n       (_)\'--.o.--|    | |    |\n      .-( `-\' = `-|____| |____|\n     /  (         |____   ____|\n     |   (        |_   | |  __|\n     |    \'-.--\';/\'/__ | | (  `|\n     |      \'.   \\    )"";--`\\ /\n     \\        ;   |--\'    `;.-\'\n     |`-.__ ..-\'--\'`;..--\'`\n\n   ___      _        __    _       ___    _                _ __    _ __                  \n  / __|    (_)      / _|  | |_    / __|  | |_      ___    | \'_ \\  | \'_ \\   ___      _ _  \n | (_ |    | |     |  _|  |  _|   \\__ \\  | \' \\    / _ \\   | .__/  | .__/  / -_)    | \'_| \n  \\___|   _|_|_   _|_|_   _\\__|   |___/  |_||_|   \\___/   |_|__   |_|__   \\___|   _|_|_  \n_|\'\'\'\'\'|_|\'\'\'\'\'|_|\'\'\'\'\'|_|\'\'\'\'\'|_|\'\'\'\'\'|_|\'\'\'\'\'|_|\'\'\'\'\'|_|\'\'\'\'\'|_|\'\'\'\'\'|_|\'\'\'\'\'|_|\'\'\'\'\'| \n"\'-0-0-\'"\'-0-0-\'"\'-0-0-\'"\'-0-0-\'"\'-0-0-\'"\'-0-0-\'"\'-0-0-\'"\'-0-0-\'"\'-0-0-\'"\'-0-0-\'"\'-0-0-\' \n\n        \nSanta lost his notebook.\n\nCan you keep track of the 1000 children\'s wishes\nwhile he\'s doings his rounds?\n\nOh no, I\'ve lost my guitar :(.\nSend n for next...> '
+[*] Switching to interactive mode
+
+Mommy, can we get a guitar?
+Send n for next...>
+Mommy, can we get a book?
+Send n for next...>
+Mommy, can we get a doll?
+Send n for next...>
+Oh no, I've lost my console :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a mouse in 5 months.
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+The newest edition of the mouse looks so cool!
+Send n for next...>
+If only I had a book, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a binoculars in 5 months.
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the crayons looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my puzzle :(.
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+Mommy, can we get a doll?
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+The newest edition of the mouse looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a mouse in 5 months.
+Send n for next...>
+If only I had a racecar, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the guitar looks so cool!
+Send n for next...>
+I hope I'll be getting a mouse this year.
+Send n for next...>
+If only I had a binoculars, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the crayons looks so cool!
+Send n for next...>
+Oh no, I've lost my binoculars :(.
+Send n for next...>
+Oh no, I've lost my kitten :(.
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+The newest edition of the mouse looks so cool!
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+Oh no, I've lost my kitten :(.
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a binoculars, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+Mommy, can we get a racecar?
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+The newest edition of the crayons looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a binoculars in 5 months.
+Send n for next...>
+I hope I'll be getting a racecar this year.
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a crayons in 5 months.
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+If only I had a book, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a crayons in 5 months.
+Send n for next...>
+Oh no, I've lost my book :(.
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+Mommy, can we get a crayons?
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+The newest edition of the book looks so cool!
+Send n for next...>
+If only I had a book, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+I hope I'll be getting a binoculars this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a kitten in 5 months.
+Send n for next...>
+If only I had a mouse, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my book :(.
+Send n for next...>
+The newest edition of the mouse looks so cool!
+Send n for next...>
+Oh no, I've lost my kitten :(.
+Send n for next...>
+I hope I'll be getting a binoculars this year.
+Send n for next...>
+The newest edition of the book looks so cool!
+Send n for next...>
+I hope I'll be getting a racecar this year.
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+If only I had a crayons, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a book, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+If only I had a mouse, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a kitten in 5 months.
+Send n for next...>
+Oh no, I've lost my racecar :(.
+Send n for next...>
+Mommy, can we get a crayons?
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+I hope I'll be getting a binoculars this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a binoculars in 5 months.
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a mouse, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my racecar :(.
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+Oh no, I've lost my binoculars :(.
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a kitten in 5 months.
+Send n for next...>
+Oh no, I've lost my doll :(.
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the mouse looks so cool!
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+If only I had a binoculars, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my racecar :(.
+Send n for next...>
+The newest edition of the crayons looks so cool!
+Send n for next...>
+Mommy, can we get a mouse?
+Send n for next...>
+If only I had a racecar, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my binoculars :(.
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+If only I had a crayons, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a crayons in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+The newest edition of the guitar looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a console in 5 months.
+Send n for next...>
+Mommy, can we get a doll?
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a kitten in 5 months.
+Send n for next...>
+The newest edition of the mouse looks so cool!
+Send n for next...>
+I hope I'll be getting a binoculars this year.
+Send n for next...>
+Mommy, can we get a guitar?
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+The newest edition of the doll looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+Oh no, I've lost my puzzle :(.
+Send n for next...>
+The newest edition of the guitar looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+Oh no, I've lost my binoculars :(.
+Send n for next...>
+Oh no, I've lost my binoculars :(.
+Send n for next...>
+If only I had a mouse, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+I hope I'll be getting a binoculars this year.
+Send n for next...>
+Mommy, can we get a book?
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+Oh no, I've lost my guitar :(.
+Send n for next...>
+Oh no, I've lost my kitten :(.
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+The newest edition of the guitar looks so cool!
+Send n for next...>
+The newest edition of the book looks so cool!
+Send n for next...>
+The newest edition of the book looks so cool!
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+Mommy, can we get a crayons?
+Send n for next...>
+I hope I'll be getting a console this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a mouse in 5 months.
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+Mommy, can we get a doll?
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+The newest edition of the racecar looks so cool!
+Send n for next...>
+The newest edition of the racecar looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+The newest edition of the racecar looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+Mommy, can we get a racecar?
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+If only I had a binoculars, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my kitten :(.
+Send n for next...>
+Oh no, I've lost my crayons :(.
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+Oh no, I've lost my crayons :(.
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the guitar looks so cool!
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+If only I had a kitten, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a mouse this year.
+Send n for next...>
+I hope I'll be getting a console this year.
+Send n for next...>
+I hope I'll be getting a mouse this year.
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a kitten in 5 months.
+Send n for next...>
+I hope I'll be getting a console this year.
+Send n for next...>
+If only I had a kitten, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the book looks so cool!
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a kitten, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+Oh no, I've lost my guitar :(.
+Send n for next...>
+If only I had a binoculars, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+Mommy, can we get a book?
+Send n for next...>
+If only I had a binoculars, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+The newest edition of the guitar looks so cool!
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+Oh no, I've lost my console :(.
+Send n for next...>
+The newest edition of the guitar looks so cool!
+Send n for next...>
+Oh no, I've lost my book :(.
+Send n for next...>
+Oh no, I've lost my console :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+The newest edition of the crayons looks so cool!
+Send n for next...>
+Mommy, can we get a guitar?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+Oh no, I've lost my racecar :(.
+Send n for next...>
+I hope I'll be getting a mouse this year.
+Send n for next...>
+I hope I'll be getting a mouse this year.
+Send n for next...>
+Mommy, can we get a book?
+Send n for next...>
+Oh no, I've lost my guitar :(.
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+Mommy, can we get a mouse?
+Send n for next...>
+Oh no, I've lost my book :(.
+Send n for next...>
+Mommy, can we get a doll?
+Send n for next...>
+Oh no, I've lost my doll :(.
+Send n for next...>
+Mommy, can we get a crayons?
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a console this year.
+Send n for next...>
+I hope I'll be getting a console this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a kitten in 5 months.
+Send n for next...>
+Oh no, I've lost my crayons :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a kitten in 5 months.
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a binoculars in 5 months.
+Send n for next...>
+The newest edition of the mouse looks so cool!
+Send n for next...>
+The newest edition of the racecar looks so cool!
+Send n for next...>
+Mommy, can we get a doll?
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a crayons in 5 months.
+Send n for next...>
+Mommy, can we get a guitar?
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+If only I had a book, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a crayons, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+Oh no, I've lost my doll :(.
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+Oh no, I've lost my binoculars :(.
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a mouse in 5 months.
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a kitten, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a racecar this year.
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+Mommy, can we get a guitar?
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+Oh no, I've lost my console :(.
+Send n for next...>
+If only I had a kitten, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a binoculars in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+Oh no, I've lost my puzzle :(.
+Send n for next...>
+Mommy, can we get a mouse?
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my kitten :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+I hope I'll be getting a binoculars this year.
+Send n for next...>
+The newest edition of the doll looks so cool!
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+The newest edition of the book looks so cool!
+Send n for next...>
+Oh no, I've lost my kitten :(.
+Send n for next...>
+Mommy, can we get a guitar?
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+I hope I'll be getting a racecar this year.
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+The newest edition of the book looks so cool!
+Send n for next...>
+I hope I'll be getting a console this year.
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a crayons in 5 months.
+Send n for next...>
+Mommy, can we get a mouse?
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a kitten in 5 months.
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+Mommy, can we get a racecar?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+Oh no, I've lost my binoculars :(.
+Send n for next...>
+Mommy, can we get a crayons?
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+The newest edition of the crayons looks so cool!
+Send n for next...>
+The newest edition of the racecar looks so cool!
+Send n for next...>
+Mommy, can we get a book?
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a console in 5 months.
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the guitar looks so cool!
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+If only I had a mouse, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+Oh no, I've lost my guitar :(.
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a binoculars in 5 months.
+Send n for next...>
+The newest edition of the crayons looks so cool!
+Send n for next...>
+If only I had a mouse, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my puzzle :(.
+Send n for next...>
+Oh no, I've lost my doll :(.
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+Mommy, can we get a doll?
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+Oh no, I've lost my binoculars :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a kitten in 5 months.
+Send n for next...>
+I hope I'll be getting a racecar this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+If only I had a racecar, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my guitar :(.
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+Oh no, I've lost my doll :(.
+Send n for next...>
+If only I had a crayons, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my doll :(.
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a crayons in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+Mommy, can we get a book?
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+Mommy, can we get a crayons?
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+Mommy, can we get a racecar?
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a binoculars in 5 months.
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+Oh no, I've lost my binoculars :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+Mommy, can we get a crayons?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a console in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+Mommy, can we get a guitar?
+Send n for next...>
+Oh no, I've lost my book :(.
+Send n for next...>
+I hope I'll be getting a console this year.
+Send n for next...>
+The newest edition of the racecar looks so cool!
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+The newest edition of the doll looks so cool!
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a book, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+Mommy, can we get a crayons?
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+Oh no, I've lost my crayons :(.
+Send n for next...>
+The newest edition of the guitar looks so cool!
+Send n for next...>
+Mommy, can we get a crayons?
+Send n for next...>
+Oh no, I've lost my console :(.
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+Oh no, I've lost my console :(.
+Send n for next...>
+I hope I'll be getting a console this year.
+Send n for next...>
+The newest edition of the book looks so cool!
+Send n for next...>
+Mommy, can we get a crayons?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+I hope I'll be getting a binoculars this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+If only I had a kitten, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a binoculars this year.
+Send n for next...>
+Oh no, I've lost my book :(.
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the mouse looks so cool!
+Send n for next...>
+I hope I'll be getting a console this year.
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+Oh no, I've lost my kitten :(.
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+If only I had a book, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+If only I had a kitten, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+The newest edition of the doll looks so cool!
+Send n for next...>
+If only I had a crayons, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+If only I had a racecar, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a doll?
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+The newest edition of the doll looks so cool!
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a mouse in 5 months.
+Send n for next...>
+The newest edition of the crayons looks so cool!
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+Oh no, I've lost my puzzle :(.
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+I hope I'll be getting a racecar this year.
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a crayons in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a binoculars in 5 months.
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+Oh no, I've lost my puzzle :(.
+Send n for next...>
+I hope I'll be getting a mouse this year.
+Send n for next...>
+I hope I'll be getting a binoculars this year.
+Send n for next...>
+The newest edition of the doll looks so cool!
+Send n for next...>
+Oh no, I've lost my kitten :(.
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+Mommy, can we get a guitar?
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+Oh no, I've lost my crayons :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a mouse in 5 months.
+Send n for next...>
+Mommy, can we get a guitar?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a console in 5 months.
+Send n for next...>
+If only I had a binoculars, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my puzzle :(.
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+Oh no, I've lost my racecar :(.
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+The newest edition of the mouse looks so cool!
+Send n for next...>
+Mommy, can we get a mouse?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a kitten in 5 months.
+Send n for next...>
+Mommy, can we get a guitar?
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+I hope I'll be getting a console this year.
+Send n for next...>
+I hope I'll be getting a binoculars this year.
+Send n for next...>
+Oh no, I've lost my guitar :(.
+Send n for next...>
+I hope I'll be getting a racecar this year.
+Send n for next...>
+The newest edition of the guitar looks so cool!
+Send n for next...>
+Mommy, can we get a book?
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+If only I had a mouse, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a crayons in 5 months.
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a mouse in 5 months.
+Send n for next...>
+Oh no, I've lost my kitten :(.
+Send n for next...>
+If only I had a mouse, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a crayons, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a binoculars in 5 months.
+Send n for next...>
+Oh no, I've lost my crayons :(.
+Send n for next...>
+Mommy, can we get a racecar?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+Mommy, can we get a book?
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+Mommy, can we get a mouse?
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+The newest edition of the mouse looks so cool!
+Send n for next...>
+Mommy, can we get a racecar?
+Send n for next...>
+Oh no, I've lost my kitten :(.
+Send n for next...>
+If only I had a kitten, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+If only I had a mouse, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a mouse in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a mouse in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+If only I had a racecar, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my doll :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+The newest edition of the doll looks so cool!
+Send n for next...>
+The newest edition of the mouse looks so cool!
+Send n for next...>
+I hope I'll be getting a console this year.
+Send n for next...>
+The newest edition of the crayons looks so cool!
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my racecar :(.
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a crayons, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+Mommy, can we get a mouse?
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a mouse in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a mouse in 5 months.
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+Oh no, I've lost my crayons :(.
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+Mommy, can we get a racecar?
+Send n for next...>
+Mommy, can we get a mouse?
+Send n for next...>
+Oh no, I've lost my guitar :(.
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+If only I had a racecar, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a crayons in 5 months.
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+Mommy, can we get a doll?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a mouse in 5 months.
+Send n for next...>
+I hope I'll be getting a mouse this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+Oh no, I've lost my kitten :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a console in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+Oh no, I've lost my console :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a mouse in 5 months.
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+I hope I'll be getting a mouse this year.
+Send n for next...>
+Mommy, can we get a book?
+Send n for next...>
+If only I had a binoculars, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my guitar :(.
+Send n for next...>
+If only I had a book, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a kitten in 5 months.
+Send n for next...>
+Mommy, can we get a book?
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a kitten in 5 months.
+Send n for next...>
+The newest edition of the doll looks so cool!
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+Oh no, I've lost my book :(.
+Send n for next...>
+Oh no, I've lost my doll :(.
+Send n for next...>
+The newest edition of the mouse looks so cool!
+Send n for next...>
+The newest edition of the guitar looks so cool!
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+If only I had a crayons, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a racecar this year.
+Send n for next...>
+The newest edition of the racecar looks so cool!
+Send n for next...>
+Mommy, can we get a mouse?
+Send n for next...>
+Oh no, I've lost my racecar :(.
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+If only I had a racecar, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+If only I had a crayons, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+If only I had a racecar, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+The newest edition of the crayons looks so cool!
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+Mommy, can we get a mouse?
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+I hope I'll be getting a mouse this year.
+Send n for next...>
+I hope I'll be getting a racecar this year.
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+The newest edition of the doll looks so cool!
+Send n for next...>
+Oh no, I've lost my crayons :(.
+Send n for next...>
+The newest edition of the racecar looks so cool!
+Send n for next...>
+If only I had a mouse, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a guitar?
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my crayons :(.
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my puzzle :(.
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+The newest edition of the book looks so cool!
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+Oh no, I've lost my crayons :(.
+Send n for next...>
+If only I had a kitten, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+If only I had a crayons, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my binoculars :(.
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+Oh no, I've lost my racecar :(.
+Send n for next...>
+If only I had a crayons, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a book, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+If only I had a binoculars, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+Mommy, can we get a mouse?
+Send n for next...>
+If only I had a binoculars, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my racecar :(.
+Send n for next...>
+The newest edition of the racecar looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+The newest edition of the guitar looks so cool!
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+The newest edition of the guitar looks so cool!
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+The newest edition of the doll looks so cool!
+Send n for next...>
+The newest edition of the doll looks so cool!
+Send n for next...>
+Oh no, I've lost my guitar :(.
+Send n for next...>
+I hope I'll be getting a mouse this year.
+Send n for next...>
+The newest edition of the mouse looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+Oh no, I've lost my crayons :(.
+Send n for next...>
+Oh no, I've lost my crayons :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a crayons in 5 months.
+Send n for next...>
+Oh no, I've lost my kitten :(.
+Send n for next...>
+Mommy, can we get a crayons?
+Send n for next...>
+Mommy, can we get a doll?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a console in 5 months.
+Send n for next...>
+Oh no, I've lost my console :(.
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+The newest edition of the book looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+Oh no, I've lost my console :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a kitten in 5 months.
+Send n for next...>
+The newest edition of the mouse looks so cool!
+Send n for next...>
+Mommy, can we get a guitar?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a crayons in 5 months.
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+Oh no, I've lost my doll :(.
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+The newest edition of the racecar looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a binoculars in 5 months.
+Send n for next...>
+If only I had a crayons, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a binoculars, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+Mommy, can we get a guitar?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+Oh no, I've lost my console :(.
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+Oh no, I've lost my doll :(.
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a crayons, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a book?
+Send n for next...>
+I hope I'll be getting a console this year.
+Send n for next...>
+I hope I'll be getting a console this year.
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+Oh no, I've lost my guitar :(.
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the guitar looks so cool!
+Send n for next...>
+If only I had a racecar, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a mouse, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a mouse, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a console in 5 months.
+Send n for next...>
+The newest edition of the doll looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a crayons in 5 months.
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+If only I had a book, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+The newest edition of the book looks so cool!
+Send n for next...>
+Oh no, I've lost my guitar :(.
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+Oh no, I've lost my guitar :(.
+Send n for next...>
+Mommy, can we get a racecar?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a console in 5 months.
+Send n for next...>
+Mommy, can we get a doll?
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+The newest edition of the doll looks so cool!
+Send n for next...>
+Oh no, I've lost my console :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+Mommy, can we get a guitar?
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+Oh no, I've lost my console :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a kitten in 5 months.
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+I hope I'll be getting a mouse this year.
+Send n for next...>
+I hope I'll be getting a binoculars this year.
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+Oh no, I've lost my kitten :(.
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a console in 5 months.
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+I hope I'll be getting a mouse this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a mouse in 5 months.
+Send n for next...>
+Mommy, can we get a guitar?
+Send n for next...>
+If only I had a mouse, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a racecar this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a binoculars in 5 months.
+Send n for next...>
+Oh no, I've lost my crayons :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a console in 5 months.
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a guitar?
+Send n for next...>
+I hope I'll be getting a mouse this year.
+Send n for next...>
+Oh no, I've lost my console :(.
+Send n for next...>
+Mommy, can we get a book?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+Mommy, can we get a doll?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+Oh no, I've lost my kitten :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+The newest edition of the guitar looks so cool!
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+I hope I'll be getting a racecar this year.
+Send n for next...>
+Oh no, I've lost my doll :(.
+Send n for next...>
+Oh no, I've lost my crayons :(.
+Send n for next...>
+The newest edition of the mouse looks so cool!
+Send n for next...>
+I hope I'll be getting a binoculars this year.
+Send n for next...>
+The newest edition of the crayons looks so cool!
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+If only I had a racecar, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my kitten :(.
+Send n for next...>
+The newest edition of the racecar looks so cool!
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+Mommy, can we get a mouse?
+Send n for next...>
+Oh no, I've lost my book :(.
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my console :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+Oh no, I've lost my racecar :(.
+Send n for next...>
+Mommy, can we get a doll?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a crayons in 5 months.
+Send n for next...>
+If only I had a racecar, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+If only I had a book, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+Oh no, I've lost my book :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a racecar in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a kitten in 5 months.
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+If only I had a mouse, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+If only I had a racecar, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my book :(.
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+If only I had a kitten, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a racecar this year.
+Send n for next...>
+Oh no, I've lost my doll :(.
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a console in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+The newest edition of the crayons looks so cool!
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my binoculars :(.
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+Mommy, can we get a mouse?
+Send n for next...>
+Mommy, can we get a book?
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+Oh no, I've lost my doll :(.
+Send n for next...>
+If only I had a racecar, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the racecar looks so cool!
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a binoculars in 5 months.
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+Mommy, can we get a guitar?
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a console in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a binoculars in 5 months.
+Send n for next...>
+Mommy, can we get a crayons?
+Send n for next...>
+I hope I'll be getting a binoculars this year.
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+If only I had a book, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my doll :(.
+Send n for next...>
+If only I had a book, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my guitar :(.
+Send n for next...>
+I hope I'll be getting a mouse this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a crayons in 5 months.
+Send n for next...>
+The newest edition of the racecar looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+Oh no, I've lost my console :(.
+Send n for next...>
+Oh no, I've lost my book :(.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+If only I had a book, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a console in 5 months.
+Send n for next...>
+The newest edition of the racecar looks so cool!
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a binoculars in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+The newest edition of the mouse looks so cool!
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+Oh no, I've lost my puzzle :(.
+Send n for next...>
+If only I had a crayons, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a racecar this year.
+Send n for next...>
+I hope I'll be getting a binoculars this year.
+Send n for next...>
+Oh no, I've lost my binoculars :(.
+Send n for next...>
+I hope I'll be getting a mouse this year.
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+I hope I'll be getting a mouse this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a crayons in 5 months.
+Send n for next...>
+Oh no, I've lost my guitar :(.
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+Mommy, can we get a racecar?
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+If only I had a crayons, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a doll this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a guitar in 5 months.
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+I hope I'll be getting a racecar this year.
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+I hope I'll be getting a book this year.
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+I hope I'll be getting a console this year.
+Send n for next...>
+The newest edition of the kitten looks so cool!
+Send n for next...>
+I hope I'll be getting a binoculars this year.
+Send n for next...>
+If only I had a doll, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my puzzle :(.
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a mouse, then all my wishes would be fulfilled
+Send n for next...>
+The newest edition of the doll looks so cool!
+Send n for next...>
+If only I had a racecar, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+I hope I'll be getting a mouse this year.
+Send n for next...>
+Oh no, I've lost my binoculars :(.
+Send n for next...>
+If only I had a console, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my doll :(.
+Send n for next...>
+I hope I'll be getting a kitten this year.
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+Mommy, can we get a crayons?
+Send n for next...>
+The newest edition of the book looks so cool!
+Send n for next...>
+Mommy, can we get a mouse?
+Send n for next...>
+I hope I'll be getting a binoculars this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a console in 5 months.
+Send n for next...>
+The newest edition of the puzzle looks so cool!
+Send n for next...>
+Mommy, can we get a console?
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a kitten?
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a mouse in 5 months.
+Send n for next...>
+Oh no, I've lost my guitar :(.
+Send n for next...>
+Oh no, I've lost my kitten :(.
+Send n for next...>
+If only I had a book, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my puzzle :(.
+Send n for next...>
+If only I had a crayons, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+I hope I'll be getting a racecar this year.
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+If only I had a puzzle, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+Mommy, can we get a book?
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+Oh no, I've lost my console :(.
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+Oh no, I've lost my mouse :(.
+Send n for next...>
+I hope I'll be getting a binoculars this year.
+Send n for next...>
+Mommy, can we get a crayons?
+Send n for next...>
+The newest edition of the doll looks so cool!
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+Mommy, can we get a puzzle?
+Send n for next...>
+The newest edition of the binoculars looks so cool!
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+If only I had a crayons, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a console this year.
+Send n for next...>
+If only I had a kitten, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a racecar, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a racecar, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a racecar?
+Send n for next...>
+If only I had a book, then all my wishes would be fulfilled
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+Oh no, I've lost my binoculars :(.
+Send n for next...>
+The newest edition of the crayons looks so cool!
+Send n for next...>
+Oh no, I've lost my crayons :(.
+Send n for next...>
+If only I had a binoculars, then all my wishes would be fulfilled
+Send n for next...>
+I hope I'll be getting a puzzle this year.
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+If only I had a binoculars, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a kitten in 5 months.
+Send n for next...>
+I hope I'll be getting a console this year.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a doll in 5 months.
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a book in 5 months.
+Send n for next...>
+The newest edition of the console looks so cool!
+Send n for next...>
+Mommy, can we get a mouse?
+Send n for next...>
+I hope I'll be getting a guitar this year.
+Send n for next...>
+Oh no, I've lost my crayons :(.
+Send n for next...>
+Mommy, can we get a mouse?
+Send n for next...>
+Mommy, can we get a binoculars?
+Send n for next...>
+Oh no, I've lost my doll :(.
+Send n for next...>
+Oh no, I've lost my guitar :(.
+Send n for next...>
+I hope I'll be getting a crayons this year.
+Send n for next...>
+Oh no, I've lost my binoculars :(.
+Send n for next...>
+If only I had a guitar, then all my wishes would be fulfilled
+Send n for next...>
+If I save up 5 bucks a month, I should be able to get a puzzle in 5 months.
+Send n for next...>
+I think we've got them all for this year!
+Have you remembered all the presents we should buy?
+
+How many binoculars should we get? > $   
