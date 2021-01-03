@@ -12,7 +12,7 @@ Backend systems are running for you.
 This environment will run until 2021-01-03 16:08:36 CET
 
 Use the following link to access the challenge:
-[tcp://portal.hackazon.org:17005](unsafe:tcp://portal.hackazon.org:17005)./img/dump.pcap)
+[tcp://portal.hackazon.org:17005](unsafe:tcp://portal.hackazon.org:17005)
 
 #### (100 POINTS) NOTEKEEPER
 
