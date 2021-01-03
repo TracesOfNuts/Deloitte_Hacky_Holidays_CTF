@@ -1,0 +1,58 @@
+
+<!-- saved from url=(0058)https://santacustomersupport.challenge.hackazon.org/source -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><pre><tt><b><font color="#000080">import</font></b> sys<font color="#990000">,</font> os
+<b><font color="#000080">from</font></b> flask <b><font color="#000080">import</font></b> Flask<font color="#990000">,</font> render_template<font color="#990000">,</font> request<font color="#990000">,</font> jsonify
+<b><font color="#000080">import</font></b> random
+<b><font color="#000080">import</font></b> backend_api
+
+app <font color="#990000">=</font> <b><font color="#000000">Flask</font></b><font color="#990000">(</font>__name__<font color="#990000">)</font>
+flag <font color="#990000">=</font> os<font color="#990000">.</font>environ<font color="#990000">[</font><font color="#FF0000">'FLAG'</font><font color="#990000">]</font>
+
+@app<font color="#990000">.</font><b><font color="#000000">route</font></b><font color="#990000">(</font><font color="#FF0000">"/"</font><font color="#990000">)</font>
+<b><font color="#0000FF">def</font></b> <b><font color="#000000">index</font></b><font color="#990000">():</font>
+    <b><font color="#0000FF">return</font></b> <b><font color="#000000">render_template</font></b><font color="#990000">(</font><font color="#FF0000">"chat.html"</font><font color="#990000">)</font>
+
+keywords <font color="#990000">=</font> <font color="#990000">{</font>
+        <font color="#990000">(</font><font color="#FF0000">'gift'</font><font color="#990000">,</font> <font color="#FF0000">'present'</font><font color="#990000">):</font> <font color="#FF0000">'If you are contacting us regarding a lost or misplaced gift.\nPlease make sure you present your unique gift voucher code by entering voucher &lt;voucher-code&gt;'</font><font color="#990000">,</font>
+        <font color="#990000">(</font><font color="#FF0000">'sing'</font><font color="#990000">,</font> <font color="#FF0000">'song'</font><font color="#990000">,</font> <font color="#FF0000">'jingle bells'</font><font color="#990000">):</font> <font color="#FF0000">"It's Christmas\nJingle bells, jingle bells\nJingle all the way\nOh, what fun it is to ride\nIn a one horse open sleigh"</font><font color="#990000">,</font>
+        <font color="#990000">(</font><font color="#FF0000">'help'</font><font color="#990000">,</font> <font color="#990000">):</font> <font color="#FF0000">'You can ask me about your presents or ask me to sing a song'</font><font color="#990000">,</font>
+        <font color="#990000">(</font><font color="#FF0000">'hi'</font><font color="#990000">,</font> <font color="#FF0000">'hello'</font><font color="#990000">):</font> <font color="#FF0000">'Nice to meet you! My name is Santa!'</font>
+<font color="#990000">}</font>
+rnd <font color="#990000">=</font> <font color="#990000">[</font>
+        <font color="#FF0000">'Hohoho merry x-mas'</font><font color="#990000">,</font>
+        <font color="#FF0000">'You can make inquiries here about any lost of misplaced gifts'</font><font color="#990000">,</font>
+<font color="#990000">]</font>
+
+@app<font color="#990000">.</font><b><font color="#000000">route</font></b><font color="#990000">(</font><font color="#FF0000">"/message"</font><font color="#990000">,</font> methods <font color="#990000">=</font> <font color="#990000">[</font><font color="#FF0000">"POST"</font><font color="#990000">])</font>
+<b><font color="#0000FF">def</font></b> <b><font color="#000000">msg</font></b><font color="#990000">():</font>
+    msg <font color="#990000">=</font> request<font color="#990000">.</font>form<font color="#990000">.</font><b><font color="#000000">get</font></b><font color="#990000">(</font><font color="#FF0000">'message'</font><font color="#990000">,</font> <font color="#FF0000">''</font><font color="#990000">)</font>
+    <b><font color="#0000FF">if</font></b> msg<font color="#990000">.</font><b><font color="#000000">lower</font></b><font color="#990000">().</font><b><font color="#000000">startswith</font></b><font color="#990000">(</font><font color="#FF0000">'voucher '</font><font color="#990000">):</font>
+        voucher <font color="#990000">=</font> msg<font color="#990000">.</font><b><font color="#000000">split</font></b><font color="#990000">(</font><font color="#FF0000">' '</font><font color="#990000">,</font><font color="#993399">1</font><font color="#990000">)[</font><font color="#993399">1</font><font color="#990000">]</font>
+        <b><font color="#0000FF">return</font></b> <b><font color="#000000">jsonify</font></b><font color="#990000">(</font><b><font color="#000000">process</font></b><font color="#990000">(</font>voucher<font color="#990000">))</font>
+    <b><font color="#0000FF">for</font></b> k<font color="#990000">,</font>v <b><font color="#0000FF">in</font></b> keywords<font color="#990000">.</font><b><font color="#000000">items</font></b><font color="#990000">():</font>
+        <b><font color="#0000FF">for</font></b> w <b><font color="#0000FF">in</font></b> k<font color="#990000">:</font>
+            <b><font color="#0000FF">if</font></b> w <b><font color="#0000FF">in</font></b> msg<font color="#990000">.</font><b><font color="#000000">lower</font></b><font color="#990000">():</font>
+                <b><font color="#0000FF">return</font></b> <b><font color="#000000">jsonify</font></b><font color="#990000">(</font>v<font color="#990000">)</font>
+    <b><font color="#0000FF">return</font></b> <b><font color="#000000">jsonify</font></b><font color="#990000">(</font>random<font color="#990000">.</font><b><font color="#000000">choice</font></b><font color="#990000">(</font>rnd<font color="#990000">))</font>
+
+@app<font color="#990000">.</font><b><font color="#000000">route</font></b><font color="#990000">(</font><font color="#FF0000">"/source"</font><font color="#990000">)</font>
+<b><font color="#0000FF">def</font></b> <b><font color="#000000">source</font></b><font color="#990000">():</font>
+    <b><font color="#0000FF">return</font></b> os<font color="#990000">.</font><b><font color="#000000">popen</font></b><font color="#990000">(</font><font color="#FF0000">"source-highlight -i /app/main.py -o STDOUT"</font><font color="#990000">).</font><b><font color="#000000">read</font></b><font color="#990000">()</font>
+
+@app<font color="#990000">.</font><b><font color="#000000">route</font></b><font color="#990000">(</font><font color="#FF0000">"/health"</font><font color="#990000">)</font>
+<b><font color="#0000FF">def</font></b> <b><font color="#000000">health</font></b><font color="#990000">():</font>
+    res <font color="#990000">=</font> backend_api<font color="#990000">.</font><b><font color="#000000">post</font></b><font color="#990000">(</font>data<font color="#990000">=</font><font color="#FF0000">"{\"action\": \"health\"}"</font><font color="#990000">)</font>
+    <b><font color="#0000FF">if</font></b> res<font color="#990000">.</font>status_code <font color="#990000">==</font> backend_api<font color="#990000">.</font>STATUS_OK<font color="#990000">:</font>
+        <b><font color="#0000FF">return</font></b> <b><font color="#000000">jsonify</font></b><font color="#990000">(</font>santa_status<font color="#990000">=</font><font color="#FF0000">'UP'</font><font color="#990000">,</font> voucher_backend<font color="#990000">=</font><font color="#FF0000">'UP'</font><font color="#990000">)</font>
+    <b><font color="#0000FF">return</font></b> <b><font color="#000000">jsonify</font></b><font color="#990000">(</font>santa_status<font color="#990000">=</font><font color="#FF0000">'UP'</font><font color="#990000">,</font> voucher_backend<font color="#990000">=</font><font color="#FF0000">'DOWN'</font><font color="#990000">)</font>
+
+<i><font color="#9A1900"># Santa is a micro-services kind of guy so the voucher</font></i>
+<i><font color="#9A1900"># validation is running as a seperate service that we interact with</font></i>
+<i><font color="#9A1900"># via POST requests</font></i>
+<b><font color="#0000FF">def</font></b> <b><font color="#000000">process</font></b><font color="#990000">(</font>voucher<font color="#990000">):</font>
+    res <font color="#990000">=</font> backend_api<font color="#990000">.</font><b><font color="#000000">post</font></b><font color="#990000">(</font>data<font color="#990000">=</font><font color="#FF0000">"{\"action\": \"redeemVoucher\", \"voucherCode\": \""</font> <font color="#990000">+</font> voucher <font color="#990000">+</font> <font color="#FF0000">"\"}"</font><font color="#990000">)</font>
+    <b><font color="#0000FF">if</font></b> res<font color="#990000">.</font>status_code <font color="#990000">==</font> backend_api<font color="#990000">.</font>STATUS_OK<font color="#990000">:</font>
+        <b><font color="#0000FF">return</font></b> f<font color="#FF0000">"Good news, we found your lost present\n🎄📦🎁 {flag} 🎄📦🎁"</font>
+    <b><font color="#0000FF">return</font></b> f<font color="#FF0000">"Sorry, unfortunately we cannot help without a valid voucher\nAPI result: {res.data}"</font>
+</tt></pre>
+</body></html>
